@@ -1,0 +1,87 @@
+maxlen 15 minLen 15
+entropy is : 0.693092
+
+Shpelet ID : 72 , Start Position : 6 , Shapelet Length : 4
+
+Split informationGain : 0.258986 , split position 49 , split distance 0.024007 and the separation gap 0.018563
+
+Total candidates : 3420 , Number of Pruned candidates : 207
+
+Time for current shapelet : 1.636439 seconds and Bound Computation Time 1.009832
+
+
+Bhool Count 0
+
+
+entropy is : 0.471393
+
+Shpelet ID : 21 , Start Position : 6 , Shapelet Length : 5
+
+Split informationGain : 0.314578 , split position 40 , split distance 0.178539 and the separation gap 0.039658
+
+Total candidates : 1800 , Number of Pruned candidates : 215
+
+Time for current shapelet : 0.317372 seconds and Bound Computation Time 0.179285
+
+
+Bhool Count 0
+
+
+entropy is : 0.114665
+
+Shpelet ID : 27 , Start Position : 6 , Shapelet Length : 5
+
+Split informationGain : 0.114665 , split position 0 , split distance 0.026920 and the separation gap 0.078415
+
+Total candidates : 1476 , Number of Pruned candidates : 170
+
+Time for current shapelet : 0.174418 seconds and Bound Computation Time 0.094444
+
+
+Bhool Count 0
+
+
+entropy is : 0.348832
+
+Shpelet ID : 6 , Start Position : 0 , Shapelet Length : 3
+
+Split informationGain : 0.348832 , split position 0 , split distance 0.000000 and the separation gap 0.017097
+
+Total candidates : 324 , Number of Pruned candidates : 32
+
+Time for current shapelet : 0.005828 seconds and Bound Computation Time 0.002313
+
+
+Bhool Count 0
+
+
+entropy is : 0.392674
+
+Shpelet ID : 15 , Start Position : 10 , Shapelet Length : 5
+
+Split informationGain : 0.215091 , split position 3 , split distance 0.071321 and the separation gap 0.048490
+
+Total candidates : 1620 , Number of Pruned candidates : 275
+
+Time for current shapelet : 0.219108 seconds and Bound Computation Time 0.121886
+
+
+Bhool Count 0
+
+
+entropy is : 0.194909
+
+Shpelet ID : 15 , Start Position : 10 , Shapelet Length : 5
+
+Split informationGain : 0.194909 , split position 38 , split distance 0.193258 and the separation gap 0.033379
+
+Total candidates : 1476 , Number of Pruned candidates : 402
+
+Time for current shapelet : 0.141491 seconds and Bound Computation Time 0.074172
+
+
+Bhool Count 0
+
+
+Total Execution Time : 2.496200
+

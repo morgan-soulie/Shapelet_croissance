@@ -1,0 +1,73 @@
+maxlen 15 minLen 15
+entropy is : 0.693092
+
+Shpelet ID : 30 , Start Position : 2 , Shapelet Length : 5
+
+Split informationGain : 0.287444 , split position 33 , split distance 0.102560 and the separation gap 0.067666
+
+Total candidates : 3420 , Number of Pruned candidates : 246
+
+Time for current shapelet : 1.555328 seconds and Bound Computation Time 0.972644
+
+
+Bhool Count 0
+
+
+entropy is : 0.132691
+
+Shpelet ID : 13 , Start Position : 7 , Shapelet Length : 5
+
+Split informationGain : 0.132691 , split position 0 , split distance 0.003156 and the separation gap 0.099845
+
+Total candidates : 1224 , Number of Pruned candidates : 156
+
+Time for current shapelet : 0.114681 seconds and Bound Computation Time 0.062322
+
+
+Bhool Count 0
+
+
+entropy is : 0.557788
+
+Shpelet ID : 45 , Start Position : 4 , Shapelet Length : 5
+
+Split informationGain : 0.351826 , split position 39 , split distance 0.090988 and the separation gap 0.042850
+
+Total candidates : 2196 , Number of Pruned candidates : 236
+
+Time for current shapelet : 0.505762 seconds and Bound Computation Time 0.303537
+
+
+Bhool Count 0
+
+
+entropy is : 0.598270
+
+Shpelet ID : 1 , Start Position : 11 , Shapelet Length : 4
+
+Split informationGain : 0.305052 , split position 3 , split distance 0.011165 and the separation gap 0.010145
+
+Total candidates : 756 , Number of Pruned candidates : 95
+
+Time for current shapelet : 0.041683 seconds and Bound Computation Time 0.022061
+
+
+Bhool Count 0
+
+
+entropy is : 0.362211
+
+Shpelet ID : 4 , Start Position : 2 , Shapelet Length : 4
+
+Split informationGain : 0.362211 , split position 1 , split distance 0.004280 and the separation gap 0.007830
+
+Total candidates : 612 , Number of Pruned candidates : 87
+
+Time for current shapelet : 0.024271 seconds and Bound Computation Time 0.012243
+
+
+Bhool Count 0
+
+
+Total Execution Time : 2.242994
+
