@@ -151,7 +151,7 @@ tk=8.6.7=hc745277_3
 tornado=5.1=py36h14c3975_0
 traitlets=4.3.2=py36_0
 tslearn=0.1.19.2=py36h7eb728f_0
-twisted=18.7.0=py36h14c3975_1
+twisted~>18.7.0=py36h14c3975_1
 wcwidth=0.1.7=py36_0
 webencodings=0.5.1=py36_1
 werkzeug=0.14.1=py36_0
