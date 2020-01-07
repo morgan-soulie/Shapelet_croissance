@@ -49,7 +49,7 @@ ipython=6.5.0=py36_0
 ipython_genutils=0.2.0=py36_0
 ipywidgets=7.4.0=py36_0
 jedi=0.12.1=py36_0
-jinja2=2.10=py36_0
+Jinja2=2.10.1
 jpeg=9b=h024ee3a_2
 jsonschema=2.6.0=py36_0
 jupyter=1.0.0=py36_4
@@ -141,7 +141,7 @@ six=1.11.0=py36_1
 sqlite=3.24.0=h84994c4_0
 statsmodels=0.9.0=py36h035aef0_0
 tensorboard=1.9.0=py36hf484d3e_0
-tensorflow=1.9.0=mkl_py36h6d6ce78_1
+tensorflow=1.15
 tensorflow-base=1.9.0=mkl_py36h2ca6a6a_0
 termcolor=1.1.0=py36_1
 terminado=0.8.1=py36_1
@@ -151,10 +151,10 @@ tk=8.6.7=hc745277_3
 tornado=5.1=py36h14c3975_0
 traitlets=4.3.2=py36_0
 tslearn=0.1.19.2=py36h7eb728f_0
-twisted~>18.7.0=py36h14c3975_1
+twisted>=19.7.0
 wcwidth=0.1.7=py36_0
 webencodings=0.5.1=py36_1
-werkzeug=0.14.1=py36_0
+werkzeug=0.15.3
 wheel=0.31.1=py36_0
 widgetsnbextension=3.4.0=py36_0
 xlrd=1.1.0=py36_1
